@@ -8,7 +8,7 @@
 	
 [![trophy](https://github-profile-trophy.vercel.app/?username=jeontigger&theme=chalk&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-|![Inho's github stats](https://github-readme-stats.vercel.app/api?username=jeontigger&show_icons=true&theme=dracula&height=200)
+![Inho's github stats](https://github-readme-stats.vercel.app/api?username=jeontigger&show_icons=true&theme=dracula&height=200)
 <!-- 	|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeontigger&layout=compact&theme=dark&height=200)|
 |---|---| -->
 	
